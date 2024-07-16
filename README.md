@@ -49,6 +49,11 @@ Alistair Rowden was the tutor I matched up with to help on this assignment. I co
 
 ## Contact
 Github: https://github.com/shyanrafer
+<br/><br/>
 Project repo: https://github.com/shyanrafer/note-generator
-Deployed link:
-Email (preferred method of contact): ```ryanshaffer1324@gmail.com```
+<br/><br/>
+Deployed link: https://shyanrafer.github.io/note-generator/
+<br/><br/>
+Email (preferred method of contact): 
+```md
+ryanshaffer1324@gmail.com```
