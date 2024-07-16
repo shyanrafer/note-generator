@@ -8,6 +8,7 @@
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [Contact](#contact)
+- [Screenshots](#screenshots)
 
 ## User Story
 
@@ -56,4 +57,11 @@ Deployed link: https://shyanrafer.github.io/note-generator/
 <br/><br/>
 Email (preferred method of contact): 
 ```md
-ryanshaffer1324@gmail.com```
+ryanshaffer1324@gmail.com
+
+## Screenshots
+![alt text](image.png) 
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
